@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/styles/default/default.css">
+</head>
+<body>
+<div class="invalidDiv">
+	<span style="font: bold 18px tahoma, arial, helvetica, sans-serif;">系统提示: </span>
+	<span style="font: 12px tahoma, arial, helvetica, sans-serif;">
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您此次的登陆信息已失效,请重新登陆系统！
+	<br><br>原因可能为：
+	<br>1.此帐号在别的地方登陆，导致您的登陆信息失效。
+	<br>2.在线人数已满时有高级用户登录进来，系统会随机移除一个非高级用户。
+	<br>3.您登陆后已很长一段时间没有进行操作，为了保障系统数据安全，系统已将您的登陆信息注销。</span>
+</div>
+</body>
+</html>
